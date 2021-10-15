@@ -23,8 +23,8 @@ user:
   name: Hazel's Blog
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: 学习笔记
-  aboutme: true # comment this out if you don't need the 'about' page.
+  job: Record me!
+  #aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
