@@ -8,14 +8,25 @@
 
 ### 前端笔记
 
+
 ###### JavaScript
+
 
 ###### CSS
 
+
 ###### HTML
+
 
 ###### VUE
 
+### 算法
+
+
 ### 外语笔记
 
-###### 德语
+
+## License
+
+[MIT License](https://opensource.org/licenses/MIT)
+
